@@ -10,7 +10,7 @@ Rahasia tod
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-Instagram: @abbas_x_ploite
+Instagram: @riski_abbas12
 
 *Thanks To :*
 Nurotomo
