@@ -3,14 +3,14 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ⚠️ *INFO BOT* ⚠️
 Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 
-Rec: AhmadGans
+Rec: AbbasGans
 Script: @Nurotomo
 Github: 
 Rahasia tod
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-Instagram: @_ahhmad_.f
+Instagram: @abbas_x_ploite
 
 *Thanks To :*
 Nurotomo
@@ -19,9 +19,9 @@ ST4RZ
 Dan kawan yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ Saweria: https://saweria.co/AmdBot
-╠➥ Tsel: 62899-5820-020
-╠➥ Trakteer: https://trakteer.id/amdbot
+╠➥ Pulsa: 628995820020
+╠➥ Tri: 62899-5820-020
+╠➥ Pulsa: 628995820020
 ║>Request? Wa.me/628995820020
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
